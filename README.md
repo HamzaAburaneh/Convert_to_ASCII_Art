@@ -1,3 +1,4 @@
+# Program that converts a .BMP image to ASCII Art
 This is a program written in **Haskell** that will load an image and convert the image into **ASCII art** using a special formula to make it look extremely similar to the original image.
 
 ## Requirements:
