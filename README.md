@@ -2,7 +2,7 @@
 This is a program written in **Haskell** that will load an image and convert the image into **ASCII art** using a special formula to make it look extremely similar to the original image.
 
 ## Requirements:
-you will need to install the package "bmp-1.2.6.3"
+you will need to install the package "bmp-1.2.6.3".
 
 ## Instructions:
 
