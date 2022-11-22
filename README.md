@@ -22,4 +22,4 @@ For instance: ```showAsASCIIArt (displayImage ".-+*#" True (loadBitmap "sample_i
 this program only works with bitmap files (.bmp)
 
 This is outdated and needs to be updated I believe
--- also need a haskell refresher.
+-- also need a haskell refresher
